@@ -1,0 +1,28 @@
+body {
+    font-family: 'SJ Sans';
+}
+h1,h2,h3,h4,ol,ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 6pt;
+    padding-bottom: 0pt;
+}
+
+p,li,td {
+    font-size: 14pt;
+    line-height: 19pt;
+}
+table {
+    width: 100%
+}
+
+th {
+    background-color: lightgray;
+}
+tr,td {
+    border-bottom: 1px solid lightgray;
+    padding: 2px;
+}
+img {
+	width: 100%
+}
