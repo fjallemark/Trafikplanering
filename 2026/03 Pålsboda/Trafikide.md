@@ -5,6 +5,7 @@ Trafikspelet utformas så att det går att delta utan förkunskaper.
 Vi hjälper varandra. 
 
 ## Förebilden
+
 Trafiktemat är svensk epok VI, vilket motsvarar från ca år 2010 till idag. 
 I denna moderna epok finns ett flertal olika operatörer av persontåg och 
 på godssidan är det vanligt med systemtåg/heltåg och andra upplägg med vagnsgrupper 
@@ -82,14 +83,12 @@ Detta rör sannolikt bara Rotebro, Munkeröd och Devsjö.
 - SJ Regional (loktåg): Norrköping - Hallsta - Gårdsjö (lokbyte) - Tumba - Rotebro - Stockholm 
 - SJ Regional (X40): Munkeröd - Devsjö - Gårdsjö - Tumba - Rotebro - Stockholm
 - KLT Kustpilen: Munkeröd - Devsjö - Norbenning - Umgänge - Lilla Vika
-- TÅGAB loktåg med diesellok: Fagersta - Slokärr - Hallsta - Förstlingen - Norrköping
 
 ### Godståg
 
 #### Timmertåg
 
 - HECTOR: Umgänge (tomvagnar) - Töva timmerterminal (avsätt tomvagnar, medtag lastade vagnar) - Norbenning  (avsätt tomvagnar, medtag lastade vagnar) - Folkviks bruk (lasta av)
-- VIDA/TÅGAB: Munkeröd (tomvagnar) - Töva timmerterminal (lasta) - Munkeröd.
 
 #### Kombi/container
 
@@ -98,18 +97,17 @@ Detta rör sannolikt bara Rotebro, Munkeröd och Devsjö.
 
 #### Flygbränsle
 
-- Rotebro - Devsjö (rundgång) - Umgänge
+- Rotebro - Devsjö - Umgänge
 
 #### Huvvagnar, tankvagnar, containervagnar
 
 - GC: Munkeröd - Rotebro
-- GC: Munkeröd - Ungänge
-- GC: Munkeröd - Gårdsjö (lokbyte) - Norrköping
-- HECTOR: Norrköping - Fummelmora logistik
+- GC: Munkeröd - Umgänge
+- **Vagnsätt**: Munkeröd - Gårdsjö (lokbyte) - Norrköping
 
 #### Flis
 
-- Stockholm - Devsjö
+- Rotebro - Norrköping
 
 #### Malm
 
@@ -118,13 +116,11 @@ Detta rör sannolikt bara Rotebro, Munkeröd och Devsjö.
 
 #### Stål
 
-- Munkeröd - Gårdsjö (lokbyte) - Norrköping
+- **Vagnsätt**: Munkeröd - Gårdsjö - Norrköping
 
 #### Vagnslaster
 
 - GC: Munkeröd - Devsjö - Gårdsjö - Rotebro
-- IBAB: Devsjö - Norbenning - Ungänge - Fågelvik - Lilla Vika
-- TÅGAB: Gårdsjö - Slokärr - Hallsta - Folkviks bruk
 
 ## Bemanning
 Driftsplater ej upptagna i listan är helt obevakade och saknar telefon.
@@ -136,10 +132,10 @@ Driftsplater ej upptagna i listan är helt obevakade och saknar telefon.
 | Hovsta || | | Fjärrmanövrerad från Devsjö |
 | Gårdsjö | Tomas | Ja | Ja | Övergång mellan 2R/3R |
 | Rotebro | Toni | Ja | Ja | |
-| Stockholm | ? | 1/2 | Ja | Delad med Ungänge |
+| Stockholm | ? | 1/2 | Ja | TKL delas med Ungänge |
 | Norbenning | Svante | Ja | Ja | TKL för hela linjen |
 | Töva timmer | Thomas | | Ja | |
-| Umgänge | ? | 1/2 | Ja | Delad med Stockholm
+| Umgänge | ? | 1/2 | Ja | TKL delas med Stockholm
 | Fagersta | ? | | Ja | |
 | Hallsta | Patrik | Ja | Ja | 
 | Norrköping | ? | Ja | Ja | |
@@ -151,6 +147,7 @@ Driftsplater ej upptagna i listan är helt obevakade och saknar telefon.
 ### Tågklarering
 
 Tågklarering gäller både trafikspelets tåg och bokade fria tåg.
+Se även *Körning utanför tidtabell* nedan.
  
 #### Dubbelspår
 
@@ -162,15 +159,12 @@ om tågen går i rätt ordning och framförvarande sträcka är fri från tåg.
 - Tåganmälan över telefon görs normalt mellan bevakade stationer. 
   TKL kan besluta om tågmöte på mellanliggande obemannad station.
 - På obemannade driftplatser med telefon ringer föraren själv till TKL i den riktning man vill köra.
-- Tidtabellen används för att planera tågmöten och hålla tågen i rätt ordning.
+- Den grafiska tidtabellen används för att planera tågmöten och hålla tågen i rätt ordning.
 
 ### Förartjänster
 
-Förartjänster har svårighetsgrader där 1 är enklast och 3 omfattar mer att hålla reda på.
-
-Alla tåg går på tidtabell:
-- Tåg i trafikspelet numreras från 1 och uppåt. Dessa körs i nummerordning.
-- Valfria tåg på 2R har nummerserie 201- och på 3R 301-. Dessa tjänster körs i nummerordnning men kan hoppas över om tåg saknas.
+- Tjänster i trafikspelet numreras från 1 och uppåt. Dessa körs i nummerordning.
+- Förartjänster har svårighetsgrader där 1 är enklast och 3 omfattar mer att hålla reda på.
 
 ### Körning
 
@@ -187,3 +181,19 @@ Alla tåg går på tidtabell:
 - I Gårdsjö sker lokbyte för tåg som trafikerar både 2R och 3R.
 - I tåg med vagnutbyte sker detta enligt förartjänst och vagngruppens omloppstidtabeller. 
   Man medför då även vagnkort och dessa följer vagngruppen.
+
+### Körning utanför tidtabell
+
+#### 2R-delen
+
+Ingen körning utanför tidtabell. Det finns några bokningsbara tjänster.
+
+#### 3R-delen
+
+- Det är begränsat med utrymme för körning utanför tidtabell, **max** två tåg ute på linjen vid varje tidpunkt.
+- Tidtabellslagda tåg har företräde. 
+- Förare måste stämma av med TKL i Gårdsjö, Hallsta och Norrköping innan avgång.
+- Tåg måste köra åt sidan på mötesplatser vid möte med tidtabellslagda tåg.
+- Vändslingan Fagersta används inte av tidtabellslagda tåg.
+- Använd den grafiska tidtabellen för att hitta luckor att köra i.
+
